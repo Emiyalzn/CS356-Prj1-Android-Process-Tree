@@ -1,0 +1,112 @@
+./BBC
+Input Format Error!
+
+./BBC 2 4 10 0
+There should be at least 1 cook, cashier, customer and rack!
+
+./BBC 3 5 25 3
+There are 3 cooks, 5 cashiers, 25 customers, 3 racks.
+Begin running.
+Customer[17] comes.
+Cashier[5] accepts an order.
+Customer[13] comes.
+Cashier[4] accepts an order.
+Cook[3] makes a burger.
+Cook[2] makes a burger.
+Cook[1] makes a burger.
+Cashier[5] takes a burger to a customer.
+Cashier[4] takes a burger to a customer.
+Cook[3] makes a burger.
+Cook[2] makes a burger.
+Customer[9] comes.
+Cashier[3] accepts an order.
+Customer[14] comes.
+Cashier[2] accepts an order.
+Cashier[3] takes a burger to a customer.
+Cashier[2] takes a burger to a customer.
+Customer[22] comes.
+Cashier[1] accepts an order.
+Cook[1] makes a burger.
+Cook[3] makes a burger.
+Cashier[1] takes a burger to a customer.
+Customer[11] comes.
+Cashier[5] accepts an order.
+Customer[3] comes.
+Customer[1] comes.
+Cook[2] makes a burger.
+Cashier[4] accepts an order.
+Cashier[3] accepts an order.
+Cashier[5] takes a burger to a customer.
+Cashier[4] takes a burger to a customer.
+Cashier[3] takes a burger to a customer.
+Cook[1] makes a burger.
+Cook[3] makes a burger.
+Cook[2] makes a burger.
+Customer[21] comes.
+Cashier[2] accepts an order.
+Customer[23] comes.
+Cashier[1] accepts an order.
+Cashier[2] takes a burger to a customer.
+Cashier[1] takes a burger to a customer.
+Customer[2] comes.
+Cashier[5] accepts an order.
+Cook[1] makes a burger.
+Customer[18] comes.
+Cashier[4] accepts an order.
+Customer[24] comes.
+Cook[3] makes a burger.
+Cashier[3] accepts an order.
+Cashier[5] takes a burger to a customer.
+Customer[15] comes.
+Cashier[2] accepts an order.
+Cashier[4] takes a burger to a customer.
+Customer[4] comes.
+Cashier[1] accepts an order.
+Cashier[3] takes a burger to a customer.
+Cook[2] makes a burger.
+Customer[10] comes.
+Cashier[5] accepts an order.
+Customer[12] comes.
+Cashier[4] accepts an order.
+Cook[1] makes a burger.
+Cook[2] makes a burger.
+Cashier[2] takes a burger to a customer.
+Customer[7] comes.
+Cashier[3] accepts an order.
+Customer[8] comes.
+Cashier[2] accepts an order.
+Cashier[1] takes a burger to a customer.
+Cashier[5] takes a burger to a customer.
+Cook[3] makes a burger.
+Customer[5] comes.
+Cashier[1] accepts an order.
+Customer[16] comes.
+Cashier[5] accepts an order.
+Cook[1] makes a burger.
+Cook[2] makes a burger.
+Cashier[4] takes a burger to a customer.
+Customer[6] comes.
+Cashier[4] accepts an order.
+Customer[20] comes.
+Cashier[3] takes a burger to a customer.
+Cashier[3] accepts an order.
+Cashier[2] takes a burger to a customer.
+Cook[3] makes a burger.
+Cook[1] makes a burger.
+Cook[2] makes a burger.
+Cashier[1] takes a burger to a customer.
+Cashier[5] takes a burger to a customer.
+Cashier[4] takes a burger to a customer.
+Cook[3] makes a burger.
+Customer[19] comes.
+Cashier[2] accepts an order.
+Cook[1] makes a burger.
+Cook[2] makes a burger.
+Cashier[3] takes a burger to a customer.
+Customer[25] comes.
+Cashier[1] accepts an order.
+Cashier[2] takes a burger to a customer.
+Cook[3] makes a burger.
+Cashier[1] takes a burger to a customer.
+Process finished.
+
